@@ -3,3 +3,4 @@
 ## Lista obecności
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP2025-2026)
+- [Patryk Szumski](https://github.com/PSzumski04/Laby)
